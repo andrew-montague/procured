@@ -44,6 +44,6 @@
 - Must support seamless show file backup and redundancy, allowing for quick recovery in the event of a system failure.
 - Capability for offline programming and visualization with compatible software.
 
-## 9. Build and Durability:
+## 9. Portability:
 
 - Must be lightweight and compact for ease of transport and setup.
