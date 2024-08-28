@@ -24,7 +24,7 @@
 
 ## 5. Processing and Effects:
 
-- The console should include a comprehensive library of high-quality built-in effects, including reverbs, delays, modulation effects, and graphic EQs, with a minimum of 4 stereo FX slots available for simultaneous use.
+- The console should include a comprehensive library of built-in effects, including reverbs, delays, modulation effects, and graphic EQs, with a minimum of 4 stereo FX slots available for simultaneous use.
 - Support for multi-band compression and dynamic EQ processing on all channels and buses.
 - Ability to store and recall scenes, show files, and presets, allowing for quick changes between different setups and performances.
 
