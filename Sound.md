@@ -14,7 +14,7 @@
 ## 3. Digital Networking and Expandability:
 
 - The console should support industry-standard digital audio networking protocols (e.g., AES50, Dante, MADI) for high-capacity, low-latency audio transmission.
-- Must include a digital snake/stage box option that supports at least 32 remote controllable mic preamps and 16 analog outputs.
+- Must include a digital snake/stage box option that supports at least 32 remote controllable mic preamps and 16 analogue outputs.
 - Stage box connection must use a robust digital protocol, such as AES50, to ensure reliable signal integrity and low latency over long distances.
 
 ## 4. User Interface and Control:
@@ -30,7 +30,7 @@
 
 ## 6. Connectivity and Integration:
 
-- Must provide a variety of connectivity options, including analog XLR inputs/outputs, AES/EBU digital audio outputs, and multiple USB ports for data transfer and external device connectivity.
+- Must provide a variety of connectivity options, including analogue XLR inputs/outputs.
 - Integrated USB or Ethernet ports for direct multitrack recording to a DAW (Digital Audio Workstation) or external storage device.
 - Support for remote control via tablets, smartphones, or laptops, allowing wireless mixing from anywhere in the venue.
 
