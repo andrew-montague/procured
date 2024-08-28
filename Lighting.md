@@ -47,3 +47,8 @@
 ## 9. Portability:
 
 - Must be lightweight and compact for ease of transport and setup.
+
+## 10. Software and Firmware:
+
+- The console should come with upgradable firmware and software options to ensure compatibility with future updates and additional features.
+- Must include comprehensive offline editing software for pre-configuring setups and show files.
