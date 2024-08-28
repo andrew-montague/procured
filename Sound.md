@@ -34,9 +34,8 @@
 - Integrated USB or Ethernet ports for direct multitrack recording to a DAW (Digital Audio Workstation) or external storage device.
 - Support for remote control via tablets, smartphones, or laptops, allowing wireless mixing from anywhere in the venue.
 
-## 7. Build Quality and Portability:
+## 7. Portability:
 
-- The console should be built with a rugged, roadworthy chassis suitable for touring, installation, and broadcast environments.
 - It must be compact and lightweight enough for easy transport and setup while providing all necessary I/O and control capabilities.
 
 ## 9. Software and Firmware:
